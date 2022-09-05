@@ -27,7 +27,7 @@
             </div>
             <div class="input-box">
                 <label for="email">Email</label>
-                <input type="text" name="email" id="email" placeholder='Masukan username' maxlength="32" required>
+                <input type="text" name="email" id="email" placeholder='Masukan username' maxlength="32" cellspacing="5px" required>
             </div>
             <div class="input-box">
                 <label for="password">Password</label>

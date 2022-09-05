@@ -89,10 +89,10 @@ form {
 }
 
 form input {
-    padding-left: 5px;
+    padding-left: 10px;
     width: 300px;
-    height: 35px;
-    border-radius: 5px;
+    height: 40px;
+    border-radius: 10px;
     background-color: white;
     border: 0.5px;
 }
@@ -126,10 +126,10 @@ form input::placeholder {
 button {
     width: 230px;
     height: 40px;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
-    background-color: gray;
-    color: #0F3460;
+    background-color: #0F3460;
+    color: white;
 }
 
 select {
