@@ -23,7 +23,7 @@
         <form action="" method="">
             <div class="title">
                 <h3>PT. INVENTARIS GELORA GEMILANG</h3><br>
-                <h4>LOGIN AS ADMIN</h4>
+                <h4>REGISTER</h4>
             </div>
             <div class="input-box">
                 <label for="email">Email</label>
@@ -33,15 +33,16 @@
                 <label for="Username">Username</label>
                 <input type="text" name="Username" id="Username" placeholder='Masukan username' maxlength="32" required>
             </div>
-                <label for="divisi">Divisi</label>
+            <div class="input-box">
+            <label for="divisi">Divisi</label>
             <select>
-                <option>divisi</option>
-               <option>sekretariat</option> 
-               <option>Tata Usaha</option>
-               <option>Kepala bidang</option>
-               <option>Resepsionis</option>
+                    <option>divisi</option>
+                    <option>sekretariat</option> 
+                    <option>Tata Usaha</option>
+                    <option>Kepala bidang</option>
+                    <option>Resepsionis</option>
             </select>
-            
+            </div>
             <div class="input-box">
                 <label for="password">Password</label>
                 <input type="password" name="password" id="password" placeholder="Masukan Password" maxlength="16" required>
