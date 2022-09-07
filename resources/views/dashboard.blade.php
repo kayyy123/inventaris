@@ -9,16 +9,17 @@
 </head>
 <body>
 <div class="fContainer">
+    <div class="sidebar">
+        <h4>NAME</h4>
+        <ul>
+            <li><a href="">PEMINJAMAN</a></li>
+            <li><a href="">PENGEMBALIAN</a></li>
+            <li><a href="">LOGOUT</a></li>
+        </ul>
+    </div>    
         <nav class="wrapper">
             <h1>PT. INVENTARIS GELORA GEMILANG</h1>
         </nav>
     </div>
-    <div class="sidebar">
-        <header>HALO</header>
-        <label>NAME</label>
-        <ul>
-            <a href="#">LOGOUT</a>
-        </ul>
-    </div>    
 </body>
 </html>
